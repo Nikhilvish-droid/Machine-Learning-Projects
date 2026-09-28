@@ -8,6 +8,7 @@ and EDA, model training and evaluation, and turning trained models into small us
 | # | Project | Description |
 |---|---------|-------------|
 | 1 | [Energy Consumption Predictor](./energy_consumption_predictor) | Predicts a household's daily electricity consumption (kWh) from household/HVAC attributes and live weather data, using a scikit-learn Linear Regression pipeline. |
+| 2 | [Customer Loan Approval Prediction](./2-customer_loan_approval_prediction) | Predicts whether a loan application will be Approved or Rejected from an applicant's financials and CIBIL score, using a scikit-learn Logistic Regression pipeline. |
 
 More projects will be added here as I keep learning.
 

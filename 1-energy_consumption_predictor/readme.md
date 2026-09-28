@@ -71,6 +71,13 @@ python src/train.py
 python src/predict.py
 ```
 
+## model evaluation
+- Mean absolute error --> 3.262427312408058
+- Mean squared error --> 19.168306468030533
+- Root Mean squared error --> 4.378162453362202
+- R2 score --> 0.6684647817630265
+- accuracy --> 87.05681502878937
+
 ## Notes / what's next
 
 This is a baseline linear regression model built while learning the end-to-end ML workflow
@@ -78,3 +85,4 @@ This is a baseline linear regression model built while learning the end-to-end M
 error isn't perfectly constant across the range of predictions, so trying a non-linear model
 (e.g. Random Forest or Gradient Boosting) and adding engineered features like month/day-of-week
 are natural next steps.
+
